@@ -1,5 +1,5 @@
 <div>
-    <nav class="bg-[#0D47A1] px-2 sm:px-4 py-2.5 fixed w-full z-20 top-0 left-0 border-b border-gray-200">
+    <nav class="bg-[#0D47A1] px-2 sm:px-4 py-2.5 fixed w-full z-20 top-24 left-0 border-b border-gray-200">
         <div class="container flex flex-wrap items-center justify-between md:justify-center mx-auto">
             <button data-collapse-toggle="navbar-sticky" type="button"
                     class="inline-flex items-center p-2 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200"
@@ -36,19 +36,19 @@
                                 aria-labelledby="dropdownLargeButton">
                                 <li>
                                     <a href="#"
-                                        class="block px-4 py-2 hover:bg-gray-100">Profile</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Profile</a>
                                 </li>
                                 <li>
                                     <a href="#"
-                                        class="block px-4 py-2 hover:bg-gray-100">Sejarah</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Sejarah</a>
                                 </li>
                                 <li>
                                     <a href="#"
-                                        class="block px-4 py-2 hover:bg-gray-100">Visi & Misi</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Visi & Misi</a>
                                 </li>
                                 <li>
                                     <a href="#"
-                                        class="block px-4 py-2 hover:bg-gray-100">Sarana Prasarana</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Sarana Prasarana</a>
                                 </li>
                             </ul>
                         </div>
@@ -70,11 +70,11 @@
                                 aria-labelledby="dropdownLargeButton">
                                 <li>
                                     <a href="#"
-                                        class="block px-4 py-2 hover:bg-gray-100">Guru</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Guru</a>
                                 </li>
                                 <li>
                                     <a href="#"
-                                        class="block px-4 py-2 hover:bg-gray-100">Karyawan</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Karyawan</a>
                                 </li>
                         </div>
                     </li>
@@ -94,15 +94,15 @@
                                 aria-labelledby="dropdownLargeButton">
                                 <li>
                                     <a href="#"
-                                        class="block px-4 py-2 hover:bg-gray-100">Siswa</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Siswa</a>
                                 </li>
                                 <li>
                                     <a href="#"
-                                        class="block px-4 py-2 hover:bg-gray-100">Prestasi</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Prestasi</a>
                                 </li>
                                 <li>
                                     <a href="#"
-                                        class="block px-4 py-2 hover:bg-gray-100">Ekstrakulikuler</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Ekstrakulikuler</a>
                                 </li>
                             </ul>
                         </div>
