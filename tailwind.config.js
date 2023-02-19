@@ -8,6 +8,7 @@ module.exports = {
   theme: {
     fontFamily: {
       "inter": ["Inter", "sans-serif"],
+      "open-sans": ["Open Sans", "sans-serif"],
   },
   },
   plugins: [],
