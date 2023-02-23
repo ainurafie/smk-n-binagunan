@@ -10,7 +10,7 @@
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap"
         rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css" rel="stylesheet" />
-    <title>Teknik Permesinan</title>
+    <title>Penerimaan Peserta Didik Baru 2022</title>
     <link rel="icon" href="../../assets/image/logo.png">
     @vite('resources/css/app.css')
     <style>
@@ -53,7 +53,7 @@
     <div class="bg-no-repeat bg-center bg-cover lg:mt-40 mt-40 banner lg:w-full"
         style="background-image: url('../../assets/image/detail1.png');">
         <div class="items-center flex flex-col justify-center banner">
-            <h1 class="text-white lg:text-[32px] text-[22px] font-open-sans font-bold">Penerimaan Peserta Didik Baru
+            <h1 class="text-white lg:text-[32px] text-[22px] text-center font-open-sans font-bold">Penerimaan Peserta Didik Baru
                 2022</h1>
         </div>
     </div>
@@ -117,11 +117,9 @@
        
     </div>
 
-    <div class="mt-[1300px] sm:mt-0 lg:mt-0 md:mt-0">
+
         <livewire:footer.footer />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
-        <script src="https://code.iconify.design/iconify-icon/1.0.5/iconify-icon.min.js"></script>
-    </div>
 </body>
 
 

@@ -33,3 +33,6 @@ Route::get('/tp', function () {
 Route::get('/detail1', function () {
     return view('Berita.berita-ppdb');
 });
+Route::get('/detail2', function () {
+    return view('Berita.berita-daftarulang');
+});
