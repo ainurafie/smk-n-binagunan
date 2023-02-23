@@ -5,8 +5,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css" rel="stylesheet" />
     <title>SMK NEGERI 1 BINANGUN</title>
     <link rel="icon" href="../../assets/image/logo.png">
@@ -287,76 +289,96 @@
                     </div>
                 </div>
             </div>
-            <h1 class="font-semibold text-[32px] font-inter text-[#0B3B86] text-center pt-10 pb-[92px] ">Berita SMK</h1>
+            <h1 class="font-semibold text-[32px] font-inter text-[#0B3B86] text-center pt-10 pb-[92px] ">Berita SMK
+            </h1>
             <div class="lg:grid lg:grid-cols-12 lg:px-[120px] lg:gap-10 lg:mb-[111px] flex flex-wrap lg:flex-nowrap">
                 <div class="col-span-4 lg:px-0 px-10 ">
                     <div class="lg:justify-start justify-center flex">
-                    <img src="../../assets/image/berita1.png" class="lg:w-full h-[350px] w-[318px]" alt="">
+                        <img src="../../assets/image/berita1.png" class="lg:w-full h-[350px] w-[318px]"
+                            alt="">
                     </div>
                     <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida rhoncus sit
+                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
+                        rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
-                        <div class="flex justify-center lg:mb-0 mb-10">
-                        <button class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
-                        </div>
+                    <div class="flex justify-center lg:mb-0 mb-10">
+                        <button
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
                     </div>
+                </div>
                 <div class="col-span-4 lg:px-0 px-10 ">
                     <div class="lg:justify-start justify-center flex">
-                    <img src="../../assets/image/berita2.png" class="lg:w-full h-[350px] w-[318px]" alt="">
+                        <img src="../../assets/image/berita2.png" class="lg:w-full h-[350px] w-[318px]"
+                            alt="">
                     </div>
                     <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida rhoncus sit
+                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
+                        rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
-                        <div class="flex justify-center lg:mb-0 mb-10">
-                        <button class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
-                        </div>
+                    <div class="flex justify-center lg:mb-0 mb-10">
+                        <button
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
                     </div>
+                </div>
                 <div class="col-span-4 lg:px-0 px-10 ">
                     <div class="lg:justify-start justify-center flex">
-                    <img src="../../assets/image/berita3.png" class="lg:w-full h-[350px] w-[318px]" alt="">
+                        <img src="../../assets/image/berita3.png" class="lg:w-full h-[350px] w-[318px]"
+                            alt="">
                     </div>
                     <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida rhoncus sit
+                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
+                        rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
-                        <div class="flex justify-center lg:mb-0 mb-10">
-                        <button class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
-                        </div>
+                    <div class="flex justify-center lg:mb-0 mb-10">
+                        <button
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
                     </div>
+                </div>
             </div>
-            <div class="lg:grid lg:grid-cols-12 lg:px-[120px] lg:gap-10 lg:pb-[111px] flex flex-wrap lg:flex-nowrap px-5">
+            <div
+                class="lg:grid lg:grid-cols-12 lg:px-[120px] lg:gap-10 lg:pb-[111px] flex flex-wrap lg:flex-nowrap px-5">
                 <div class="col-span-4 lg:px-0 px-10 ">
                     <div class="lg:justify-start justify-center flex">
-                    <img src="../../assets/image/berita1.png" class="lg:w-full h-[350px] w-[318px]" alt="">
+                        <img src="../../assets/image/berita1.png" class="lg:w-full h-[350px] w-[318px]"
+                            alt="">
                     </div>
                     <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida rhoncus sit
+                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
+                        rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
-                        <div class="flex justify-center lg:mb-0 mb-10">
-                        <button class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
-                        </div>
+                    <div class="flex justify-center lg:mb-0 mb-10">
+                        <button
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
                     </div>
+                </div>
                 <div class="col-span-4 lg:px-0 px-10 ">
                     <div class="lg:justify-start justify-center flex">
-                    <img src="../../assets/image/berita2.png" class="lg:w-full h-[350px] w-[318px]" alt="">
+                        <img src="../../assets/image/berita2.png" class="lg:w-full h-[350px] w-[318px]"
+                            alt="">
                     </div>
                     <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida rhoncus sit
+                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
+                        rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
-                        <div class="flex justify-center lg:mb-0 mb-10">
-                        <button class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
-                        </div>
+                    <div class="flex justify-center lg:mb-0 mb-10">
+                        <button
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
                     </div>
+                </div>
                 <div class="col-span-4 lg:px-0 px-10 ">
                     <div class="lg:justify-start justify-center flex">
-                    <img src="../../assets/image/berita3.png" class="lg:w-full h-[350px] w-[318px]" alt="">
+                        <img src="../../assets/image/berita3.png" class="lg:w-full h-[350px] w-[318px]"
+                            alt="">
                     </div>
                     <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida rhoncus sit
+                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
+                        rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
-                        <div class="flex justify-center lg:mb-0 mb-10">
-                        <button class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
-                        </div>
+                    <div class="flex justify-center lg:mb-0 mb-10">
+                        <button
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
                     </div>
+                </div>
             </div>
         </div>
         {{-- section 4 --}}

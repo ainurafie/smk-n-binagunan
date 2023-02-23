@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+// Menu Jurusan
 Route::get('/tkr', function () {
     return view('Jurusan.tkr');
 });
@@ -27,4 +28,8 @@ Route::get('/tkj', function () {
 });
 Route::get('/tp', function () {
     return view('Jurusan.tp');
+});
+// Menu Berita
+Route::get('/detail1', function () {
+    return view('Berita.berita-ppdb');
 });

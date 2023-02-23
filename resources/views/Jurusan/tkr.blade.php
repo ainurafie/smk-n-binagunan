@@ -302,7 +302,9 @@
         </div>
     </div>
     <div class="mt-[1300px] sm:mt-0 lg:mt-0 md:mt-0">
-        <livewire:footer.footer />
+            <livewire:footer.footer />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.5/iconify-icon.min.js"></script>
     </div>
 </body>
 
