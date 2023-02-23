@@ -36,3 +36,6 @@ Route::get('/detail1', function () {
 Route::get('/detail2', function () {
     return view('Berita.berita-daftarulang');
 });
+Route::get('/detail3', function () {
+    return view('Berita.berita-penerimaan2021');
+});
