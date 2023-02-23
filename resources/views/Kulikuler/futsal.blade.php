@@ -10,7 +10,7 @@
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap"
         rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css" rel="stylesheet" />
-    <title>Badminton</title>
+    <title>Futsal</title>
     <link rel="icon" href="../../assets/image/logo.png">
     @vite('resources/css/app.css')
     <style>
@@ -51,20 +51,18 @@
     <livewire:navbar.navbar2 />
     <livewire:navbar.navbar />
     <div class="bg-no-repeat bg-center bg-cover lg:mt-40 mt-40 banner lg:w-full"
-        style="background-image: url('../../assets/image/badminton.png');">
+        style="background-image: url('../../assets/image/futsal.png');">
         <div class="items-center flex flex-col justify-center banner">
-            <h1 class="text-white lg:text-[32px] text-[22px] text-center font-open-sans font-bold">Badminton</h1>
+            <h1 class="text-white lg:text-[32px] text-[22px] text-center font-open-sans font-bold">Futsal</h1>
         </div>
     </div>
     <div class="lg:px-[123px] my-[20px] px-5 lg:mt-[57px]">
-        <h1 class="font-open-sans text-black text-justify">Badminton atau bulutangkis merupakan ekstrakurikuler bidang olahraga yang didalamnya melatih berbagai teknik dan strategi dalam bermain bulutangkis. Di SMK Negeri 1 Binangun ekstrakulikuler bulutangkis diadakan setiap 2 kali seminggu pada hari Rabu dan Kamis. Pada ekstrakulikuler ini siswa dapat melatih skill dalam bermain bulutangkis, seperti teknik forehand dan backhand, melatih strategi dalam menentukan pukulan raket serta berbagai latihan fisik lainnya sebagai penunjang dalam olahraga bulutangkis. Dengan adanya kegiatan ekstrakurikuler badminton di harapkan dapat menjadi wadah untuk penyaluran bakat para siswa dan untuk memfasilitasi minat dan bakat yang selama ini sudah muncul di lingkungan sekolah sehingga dapat tersalurkan secara positif dan akhirnya membawa manfaat yang besar bagi prestasi dan pencapaian sekolah.</h1>
+        <h1 class="font-open-sans text-black text-justify">Futsal adalah salah satu olahraga paling populer di kalangan anak muda sekarang, karena olahraga ini adalah turunan dari sepak bola tapi dengan jumlah pemain yang lebih sedikit dan luas lapangan yang lebih kecil. Ekstrakurikuler futsal SMK Negeri 1Binangun merupakan kegiatan ekskul olahraga yang paling banyak dimunati oleh peserta didik laki-laki. Ekstrakurikuler futsal diadakan dengan tujuan menyediakan wadah untuk siswa menyalurkan hobinya dan menghadirkan corak positif kepada para siswa yaitu sifat-sifat sportifitas serta mencetak bibit-bibit baru olahragawan yang berprestasi di tingkat lokal, nasional maupun internasional.</h1>
+        <br>
+        <h1 class="font-open-sans text-black text-justify">SMK Negeri 1 Binangun memiliki tim futsal tersendiri. Tim bola futsal SMK Negeri 1 Binangun sering mengikuti perlombaan atau turnamen futsal baik di tingkat kabupaten, kecamatan maupun antar sekolah SMK. Berbagai penghargaan  telah banyak diraih oleh tim futsal SMK Negeri 1 Binangun.</h1>
         <br><br>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER BADMINTON.</h1>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">Badminton Laki-laki</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">Hari : Rabu</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">Badminton Perempuan</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">Hari : Kamis</h1>
+        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER FUTSAL</h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Hari : Senin</h1>
         <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
     </div>
     <livewire:footer.footer />

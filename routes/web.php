@@ -52,3 +52,39 @@ Route::get('/detail6', function () {
 Route::get('/kulikuler/badminton', function () {
     return view('Kulikuler.badminton');
 });
+Route::get('/kulikuler/voli', function () {
+    return view('Kulikuler.voli');
+});
+Route::get('/kulikuler/basket', function () {
+    return view('Kulikuler.basket');
+});
+Route::get('/kulikuler/pmr', function () {
+    return view('Kulikuler.pmr');
+});
+Route::get('/kulikuler/pmr', function () {
+    return view('Kulikuler.pmr');
+});
+Route::get('/kulikuler/english', function () {
+    return view('Kulikuler.english');
+});
+Route::get('/kulikuler/sepakbola', function () {
+    return view('Kulikuler.sepakbola');
+});
+Route::get('/kulikuler/fotografi', function () {
+    return view('Kulikuler.fotografi');
+});
+Route::get('/kulikuler/jepang', function () {
+    return view('Kulikuler.jepang');
+});
+Route::get('/kulikuler/musik', function () {
+    return view('Kulikuler.musik');
+});
+Route::get('/kulikuler/futsal', function () {
+    return view('Kulikuler.futsal');
+});
+Route::get('/kulikuler/rebana', function () {
+    return view('Kulikuler.rebana');
+});
+Route::get('/kulikuler/it', function () {
+    return view('Kulikuler.it');
+});

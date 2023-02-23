@@ -10,7 +10,7 @@
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap"
         rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css" rel="stylesheet" />
-    <title>Badminton</title>
+    <title>Musik</title>
     <link rel="icon" href="../../assets/image/logo.png">
     @vite('resources/css/app.css')
     <style>
@@ -51,20 +51,18 @@
     <livewire:navbar.navbar2 />
     <livewire:navbar.navbar />
     <div class="bg-no-repeat bg-center bg-cover lg:mt-40 mt-40 banner lg:w-full"
-        style="background-image: url('../../assets/image/badminton.png');">
+        style="background-image: url('../../assets/image/musik.png');">
         <div class="items-center flex flex-col justify-center banner">
-            <h1 class="text-white lg:text-[32px] text-[22px] text-center font-open-sans font-bold">Badminton</h1>
+            <h1 class="text-white lg:text-[32px] text-[22px] text-center font-open-sans font-bold">Musik</h1>
         </div>
     </div>
     <div class="lg:px-[123px] my-[20px] px-5 lg:mt-[57px]">
-        <h1 class="font-open-sans text-black text-justify">Badminton atau bulutangkis merupakan ekstrakurikuler bidang olahraga yang didalamnya melatih berbagai teknik dan strategi dalam bermain bulutangkis. Di SMK Negeri 1 Binangun ekstrakulikuler bulutangkis diadakan setiap 2 kali seminggu pada hari Rabu dan Kamis. Pada ekstrakulikuler ini siswa dapat melatih skill dalam bermain bulutangkis, seperti teknik forehand dan backhand, melatih strategi dalam menentukan pukulan raket serta berbagai latihan fisik lainnya sebagai penunjang dalam olahraga bulutangkis. Dengan adanya kegiatan ekstrakurikuler badminton di harapkan dapat menjadi wadah untuk penyaluran bakat para siswa dan untuk memfasilitasi minat dan bakat yang selama ini sudah muncul di lingkungan sekolah sehingga dapat tersalurkan secara positif dan akhirnya membawa manfaat yang besar bagi prestasi dan pencapaian sekolah.</h1>
+        <h1 class="font-open-sans text-black text-justify">Musik adalah ekspresi perasaan yang dikeluarkan secara teratur dalam bentuk bunyi. Ekstrakurikuler musik diadakan untuk mengasah bakat dan minat siswa khususnya di seni musik. Jadi skil atau bakat yang dimiliki siswa akan diolah lagi supaya bisa tersalurkan dan bisa ditampilkan ketika ada kegiatan di sekolah SMK Negeri 1 Binangun. Kegiatan yang dilakukan saat ekstra  berdasarkan minat siswa seperti bermain gitar, drum, dan bass. Sehingga dari bakat siswa tersebut akan disatukan menjadi sebuah grup band, dan bisa mengikutsertakan siswa yang sudah terbentuk seninya  untuk mengikuti lomba atau event yang ada di luar sekolah. Tujuan adanya ekstra musik yaitu untuk mengembangkan bakat dan memfasilitasi siswa dalam bermain musik.</h1>
+        <br>
+        <h1 class="font-open-sans text-black text-justify">sMK Negeri 1 Binangun juga miliki grup band tersendiri yang dibentuk oleh masing-masing siswa san teman-temannya. Grup band tersebut biasaja juga mengisi acara atau event yang ada di SMK Negeri 1 Binangun seperti acara HUT dan perpisahan atau wisuda. Selain itu grup band SMK Negeri 1 Binangun juga pernah mengikuti perlombaan diluar sekolah.</h1>
         <br><br>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER BADMINTON.</h1>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">Badminton Laki-laki</h1>
+        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER MUSIK</h1>
         <h1 class="font-open-sans text-base text-black text-justify">Hari : Rabu</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">Badminton Perempuan</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">Hari : Kamis</h1>
         <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
     </div>
     <livewire:footer.footer />

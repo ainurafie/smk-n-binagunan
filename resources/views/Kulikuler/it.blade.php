@@ -10,7 +10,7 @@
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap"
         rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css" rel="stylesheet" />
-    <title>Badminton</title>
+    <title>IT Club</title>
     <link rel="icon" href="../../assets/image/logo.png">
     @vite('resources/css/app.css')
     <style>
@@ -51,20 +51,16 @@
     <livewire:navbar.navbar2 />
     <livewire:navbar.navbar />
     <div class="bg-no-repeat bg-center bg-cover lg:mt-40 mt-40 banner lg:w-full"
-        style="background-image: url('../../assets/image/badminton.png');">
+        style="background-image: url('../../assets/image/it.png');">
         <div class="items-center flex flex-col justify-center banner">
-            <h1 class="text-white lg:text-[32px] text-[22px] text-center font-open-sans font-bold">Badminton</h1>
+            <h1 class="text-white lg:text-[32px] text-[22px] text-center font-open-sans font-bold">IT Club</h1>
         </div>
     </div>
     <div class="lg:px-[123px] my-[20px] px-5 lg:mt-[57px]">
-        <h1 class="font-open-sans text-black text-justify">Badminton atau bulutangkis merupakan ekstrakurikuler bidang olahraga yang didalamnya melatih berbagai teknik dan strategi dalam bermain bulutangkis. Di SMK Negeri 1 Binangun ekstrakulikuler bulutangkis diadakan setiap 2 kali seminggu pada hari Rabu dan Kamis. Pada ekstrakulikuler ini siswa dapat melatih skill dalam bermain bulutangkis, seperti teknik forehand dan backhand, melatih strategi dalam menentukan pukulan raket serta berbagai latihan fisik lainnya sebagai penunjang dalam olahraga bulutangkis. Dengan adanya kegiatan ekstrakurikuler badminton di harapkan dapat menjadi wadah untuk penyaluran bakat para siswa dan untuk memfasilitasi minat dan bakat yang selama ini sudah muncul di lingkungan sekolah sehingga dapat tersalurkan secara positif dan akhirnya membawa manfaat yang besar bagi prestasi dan pencapaian sekolah.</h1>
+        <h1 class="font-open-sans text-black text-justify">Perkembangan Informasi dan Teknologi saat ini berkembang dengan sangat cepat, oleh karena itu perlu adanya pembekalan bagi para siswa ataupun siswi di SMK Negeri 1 Binangun. Melalui ekstrakulikuler  IT Club ini di harapkan siswa siswi dapat bersaing dalam hal IT, selain itu pula dapat meningkatkan kreatifitas setiap siswa ataupun siswi yang mengikutinya. Serta dapat bersaing dalam IT dan berkreatifitas diharapkan juga dapat bersaing melalui lomba ataupun OSN di setiap wilayah.</h1>
         <br><br>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER BADMINTON.</h1>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">Badminton Laki-laki</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">Hari : Rabu</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">Badminton Perempuan</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">Hari : Kamis</h1>
+        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER IT CLUB/h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Hari : selasa</h1>
         <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
     </div>
     <livewire:footer.footer />
