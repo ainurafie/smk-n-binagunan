@@ -45,3 +45,6 @@ Route::get('/detail4', function () {
 Route::get('/detail5', function () {
     return view('Berita.berita-pelantikan');
 });
+Route::get('/detail6', function () {
+    return view('Berita.berita-mos');
+});

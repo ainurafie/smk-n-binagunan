@@ -58,7 +58,7 @@
         </div>
     </div>
     <div class="lg:px-[123px] my-[20px] px-5 lg:mt-[57px]">
-        <h1 class="font-open-sans text-xl font-bold text-black text-justify">Ibu Sri Utami, S.Pd. MM selaku Pembina
+        <h1 class="font-open-sans text-black text-justify">Ibu Sri Utami, S.Pd. MM selaku Pembina
             upacara melantik dan memberikan sambutan untuk pengurus baru. Dilanjutkan dengan penyerahan simbolis bendera
             OSIS, Pramuka dan PMR dari ketua periode 2018/2019 kepada ketua baru periode 2019/2020. Disaksikan langsung
             oleh siswa kelas X dan XII yang berada di lapangan upacara.</h1>
