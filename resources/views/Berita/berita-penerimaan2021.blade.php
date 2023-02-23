@@ -114,7 +114,7 @@
         <a href="https://wa.me/628986682045?text=Assalamualaikum%20Pak%20Septian%0Amohon%20untuk%20diverifikasi%2C%20saya%20pendaftar%20tetapi%20datanya%20belum%20ada%20di%20database%0ANomor%20Peserta%20%3A...%0ANISN%20%3A...%0ANama%20saya%20%3A...%0ATempat%20lahir%20saya%20%3Axx-xx-xxxx%0AAsal%20Sekolah%20Saya%20%3A...%0ADesa%20saya%20%3A...%0AKecamatan%20saya%20%3A...%0AKabupaten%20%3A...%0AProvinsi%20%3A...%0Aatas%20bantuannya%20saya%20ucapkan%20terimakasih%0A%0Attd%20%0A%0A%0A(.................)" class="underline"
             style="color: #0D47A1;">Go
             Whatsapp</a>
-        <ul class="ul2 font-open-sans text-lg font-bold px-4">
+        <ul class="ul2 font-open-sans mt-4 text-lg font-bold px-4">
             <li>
                 <h1 class="font-open-sans text-lg font-bold text-black text-justify">SYARAT PENDAFTARAN</h1>
                 <img src="../../assets/image/syarat.png" class="p-6" alt="">

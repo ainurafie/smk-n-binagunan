@@ -39,3 +39,6 @@ Route::get('/detail2', function () {
 Route::get('/detail3', function () {
     return view('Berita.berita-penerimaan2021');
 });
+Route::get('/detail4', function () {
+    return view('Berita.berita-smkchallenge');
+});
