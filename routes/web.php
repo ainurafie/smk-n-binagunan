@@ -42,3 +42,6 @@ Route::get('/detail3', function () {
 Route::get('/detail4', function () {
     return view('Berita.berita-smkchallenge');
 });
+Route::get('/detail5', function () {
+    return view('Berita.berita-pelantikan');
+});
