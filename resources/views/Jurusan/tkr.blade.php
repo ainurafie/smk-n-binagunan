@@ -135,9 +135,9 @@
                     </div>
                 </div>
             </div>
-            <div class="flex flex-col lg:mt-24">
+            <div class="flex flex-col lg:mt-60">
                 <div
-                    class="bg-no-repeat bg-center bg-cover  w-full h-[350px] rounded-[10px] flex flex-col justify-center bg-white drop-shadow">
+                    class="w-full h-[350px] rounded-[10px] flex flex-col justify-center bg-white drop-shadow">
                     <div class="flex justify-center">
                         <svg width="136" height="136" viewBox="0 0 136 136" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -246,9 +246,9 @@
                     </div>
                 </div>
             </div>
-            <div class="flex flex-col lg:mt-24">
+            <div class="flex flex-col lg:mt-60">
                 <div
-                    class="bg-no-repeat bg-center bg-cover  w-full h-[350px] rounded-[10px] flex flex-col justify-center bg-white drop-shadow">
+                    class="w-full h-[350px] rounded-[10px] flex flex-col justify-center bg-white drop-shadow">
                     <div class="flex justify-center">
                         <svg width="136" height="136" viewBox="0 0 136 136" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -301,13 +301,10 @@
             </div>
         </div>
     </div>
-<div class="mt-[1300px] sm:mt-0 lg:mt-0 md:mt-0">
-    <livewire:footer.footer />
-</div>
+    <div class="mt-[1300px] sm:mt-0 lg:mt-0 md:mt-0">
+        <livewire:footer.footer />
+    </div>
 </body>
 
-<body>
-
-</body>
 
 </html>

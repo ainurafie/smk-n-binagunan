@@ -16,3 +16,15 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/tkr', function () {
+    return view('Jurusan.tkr');
+});
+Route::get('/multimedia', function () {
+    return view('Jurusan.multimedia');
+});
+Route::get('/tkj', function () {
+    return view('Jurusan.tkj');
+});
+Route::get('/tp', function () {
+    return view('Jurusan.tp');
+});
