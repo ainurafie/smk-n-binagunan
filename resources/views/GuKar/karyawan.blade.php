@@ -125,143 +125,144 @@
     <livewire:navbar.navbar2 />
     <livewire:navbar.navbar />
     <div class="my-[20px] px-5 mt-60">
-        <div class="lg:px-80">
-        <h1 class="font-open-sans text-[27px] font-semibold text-black text-justify lg:px-1 px-5 mb-[50px]">Karyawan</h1>
+        <div class="lg:px-[290px]">
+            <h1 class="font-open-sans text-[27px] font-semibold text-black text-justify lg:px-1 px-5 mb-[50px]">Karyawan
+            </h1>
         </div>
-    <!--Container-->
-    <div class="container w-full md:w-4/5 xl:w-3/5  mx-auto px-2">
-        <!--Card-->
-        <div id='recipients' class="p-8 mt-6 lg:mt-0 rounded shadow bg-white">
+        <!--Container-->
+        <div class="container w-full md:w-4/5 xl:w-3/5  mx-auto px-2">
+            <!--Card-->
+            <div id='recipients' class="p-8 mt-6 lg:mt-0 rounded shadow bg-white">
 
 
-            <table id="example" class="stripe hover" style="width:100%; padding-top: 1em;  padding-bottom: 1em;">
-                <thead>
-                    <tr class="bg-[#0B3B86] text-white">
-                        <th data-priority="1">NO</th>
-                        <th data-priority="2">NAMA</th>
-                        <th data-priority="3">NIP</th>
-                        <th data-priority="4">JABATAN</th>
+                <table id="example" class="stripe hover" style="width:100%; padding-top: 1em;  padding-bottom: 1em;">
+                    <thead>
+                        <tr class="bg-[#0B3B86] text-white">
+                            <th data-priority="1">NO</th>
+                            <th data-priority="2">NAMA</th>
+                            <th data-priority="3">NIP</th>
+                            <th data-priority="4">JABATAN</th>
 
 
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td class="text-center">1</td>
-                        <td>Amalia Suci Andrawina, S.Sos</td>
-                        <td>5733762663300130</td>
-                        <td>Null</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="text-center">1</td>
+                            <td>Amalia Suci Andrawina, S.Sos</td>
+                            <td>5733762663300130</td>
+                            <td>Null</td>
 
 
-                    </tr>
+                        </tr>
 
-                    <!-- Rest of your data (refer to https://datatables.net/examples/server_side/ for server side processing)-->
-                    <tr>
-                        <td class="text-center">2</td>
-                        <td>Eka Yulianti, S.Kom</td>
-                        <td>9860758659300090</td>
-                        <td>Null</td>
+                        <!-- Rest of your data (refer to https://datatables.net/examples/server_side/ for server side processing)-->
+                        <tr>
+                            <td class="text-center">2</td>
+                            <td>Eka Yulianti, S.Kom</td>
+                            <td>9860758659300090</td>
+                            <td>Null</td>
 
-                    </tr>
-                    <tr>
-                        <td class="text-center">3</td>
-                        <td>Iwan Setiyawan, SH</td>
-                        <td>3958751652200020</td>
-                        <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">3</td>
+                            <td>Iwan Setiyawan, SH</td>
+                            <td>3958751652200020</td>
+                            <td>Null</td>
 
-                    </tr>
-                    <tr>
-                        <td class="text-center">4</td>
-                        <td>Handry Widayanto, S.E</td>
-                        <td>7261761662130140</td>
-                        <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">4</td>
+                            <td>Handry Widayanto, S.E</td>
+                            <td>7261761662130140</td>
+                            <td>Null</td>
 
-                    </tr>
-                    <tr>
-                        <td class="text-center">5</td>
-                        <td>Yuli Haryanto, S.E</td>
-                        <td>1058750651110010</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">6</td>
-                        <td>Arif Sutrimo, A.Md</td>
-                        <td>556772673130073</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">7</td>
-                        <td>Catur Apri Setianingsih, S.I.Pust</td>
-                        <td>4761770671130140</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">8</td>
-                        <td>Tarsono</td>
-                        <td>240746649200063</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">9</td>
-                        <td>Suyatno</td>
-                        <td>9934753656200010</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">10</td>
-                        <td>Darto Solehan</td>
-                        <td>8262766668130120</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">11</td>
-                        <td>Sugimin</td>
-                        <td>3637761662130220</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">12</td>
-                        <td>Jaenudin</td>
-                        <td>8048745646130080</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">13</td>
-                        <td>Heri Sujianto</td>
-                        <td>1333763664130210</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">14</td>
-                        <td>Rasman Mustakim</td>
-                        <td>-</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">15</td>
-                        <td>Anwari</td>
-                        <td>449757658130102</td>
-                        <td>Null</td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">16</td>
-                        <td>Imam Gunadi</td>
-                        <td>4155765666130190</td>
-                        <td>Null</td>
-                    </tr>
-                </tbody>
+                        </tr>
+                        <tr>
+                            <td class="text-center">5</td>
+                            <td>Yuli Haryanto, S.E</td>
+                            <td>1058750651110010</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">6</td>
+                            <td>Arif Sutrimo, A.Md</td>
+                            <td>556772673130073</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">7</td>
+                            <td>Catur Apri Setianingsih, S.I.Pust</td>
+                            <td>4761770671130140</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">8</td>
+                            <td>Tarsono</td>
+                            <td>240746649200063</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">9</td>
+                            <td>Suyatno</td>
+                            <td>9934753656200010</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">10</td>
+                            <td>Darto Solehan</td>
+                            <td>8262766668130120</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">11</td>
+                            <td>Sugimin</td>
+                            <td>3637761662130220</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">12</td>
+                            <td>Jaenudin</td>
+                            <td>8048745646130080</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">13</td>
+                            <td>Heri Sujianto</td>
+                            <td>1333763664130210</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">14</td>
+                            <td>Rasman Mustakim</td>
+                            <td>-</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">15</td>
+                            <td>Anwari</td>
+                            <td>449757658130102</td>
+                            <td>Null</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">16</td>
+                            <td>Imam Gunadi</td>
+                            <td>4155765666130190</td>
+                            <td>Null</td>
+                        </tr>
+                    </tbody>
 
-            </table>
+                </table>
+
+
+            </div>
+            <!--/Card-->
 
 
         </div>
-        <!--/Card-->
-
-
-    </div>
     </div>
     <!--/container-->
-
+    <livewire:footer.footer />
 
 
 
