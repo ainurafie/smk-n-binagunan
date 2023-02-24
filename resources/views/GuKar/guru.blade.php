@@ -52,7 +52,7 @@
 <body>
     <livewire:navbar.navbar2 />
     <livewire:navbar.navbar />
-    <div class="lg:px-[120px] my-[20px] px-5 lg:mt-60">
+    <div class="lg:px-[120px] my-[20px] px-5 mt-60">
         <h1 class="font-open-sans text-[27px] font-semibold text-black text-justify lg:px-1 px-5 mb-[50px]">Guru SMK N 1
             Binangun</h1>
         <div class="flex justify-center flex-wrap lg:flex-nowrap gap-11">
@@ -346,6 +346,7 @@
         </div>
 
     </div>
+    <livewire:footer.footer/>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
     <script src="https://code.iconify.design/iconify-icon/1.0.5/iconify-icon.min.js"></script>
 </body>

@@ -99,6 +99,6 @@ Route::get('/siswa', function () {
 Route::get('/gukar/guru', function () {
     return view('GuKar.guru');
 });
-Route::get('/gukar/guru', function () {
-    return view('GuKar.guru');
+Route::get('/gukar/karyawan', function () {
+    return view('GuKar.karyawan');
 });
