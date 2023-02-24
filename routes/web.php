@@ -91,3 +91,14 @@ Route::get('/kulikuler/rebana', function () {
 Route::get('/kulikuler/it', function () {
     return view('Kulikuler.it');
 });
+// Siswa
+Route::get('/siswa', function () {
+    return view('Siswa.index');
+});
+// GuKar
+Route::get('/gukar/guru', function () {
+    return view('GuKar.guru');
+});
+Route::get('/gukar/guru', function () {
+    return view('GuKar.guru');
+});
