@@ -49,6 +49,9 @@ Route::get('/detail6', function () {
     return view('Berita.berita-mos');
 });
 // Menu Kulikuler
+Route::get('/kulikuler', function () {
+    return view('Kulikuler.index');
+});
 Route::get('/kulikuler/badminton', function () {
     return view('Kulikuler.badminton');
 });
