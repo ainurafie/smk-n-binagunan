@@ -10,7 +10,7 @@
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap"
         rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css" rel="stylesheet" />
-    <title>Badminton</title>
+    <title>Tentang Kami</title>
     <link rel="icon" href="../../assets/image/logo.png">
     @vite('resources/css/app.css')
     <style>
@@ -114,6 +114,81 @@
                 <li>Mewujudkan layanan prima dan upaya memberdayakan sekolah dan masyarakat.</li>
                 <li>Mengembangkan system belajar yang berakar pada norma dan nilai budaya indonesia.</li>
             </ul>
+        </div>
+        <div class="lg:block hidden" style="margin-bottom: 128px;">
+            <div class="">
+                <h1 class="font-open-sans text-center text-[#0B3B86] font-bold" style="font-size:48px;">Sarana
+                    Prasarana</h1>
+                <div class="flex justify-center">
+                    <hr class="my-10 h-1  border-0" style="background-color: #5478B8; width:238px">
+                </div>
+            </div>
+            <div class="flex" style="gap:49px;">
+                <div class="">
+                    <img src="../../assets/image/masjid.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-top:32px;">Masjid</h1>
+                </div>
+                <div class="">
+                    <img src="../../assets/image/aula.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-top:32px;">Aula</h1>
+                </div>
+            </div>
+            <div class="flex mt-8" style="gap:49px;">
+                <div class="">
+                    <img src="../../assets/image/bengkel.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-top:32px;">Bengkel TKR</h1>
+                </div>
+                <div class="">
+                    <img src="../../assets/image/lab-tkj.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-top:32px;">Lab TKJ</h1>
+                </div>
+            </div>
+            <div class="flex mt-8" style="gap:49px;">
+                <div class="">
+                    <img src="../../assets/image/lab-mulmet.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-top:32px;">Lab Multimedia</h1>
+                </div>
+                <div class="">
+                    <img src="../../assets/image/lapangan.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-top:32px;">Lapangan</h1>
+                </div>
+            </div>
+        </div>
+        <div class="md:hidden block" style="margin-bottom: 128px;">
+            <div class="">
+                <h1 class="font-open-sans text-center text-[#0B3B86] font-bold" style="font-size:48px;">Sarana
+                    Prasarana</h1>
+                <div class="flex justify-center">
+                    <hr class="my-10 h-1  border-0" style="background-color: #5478B8; width:238px">
+                </div>
+            </div>
+                <div class="">
+                    <img src="../../assets/image/masjid.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-bottom:32px; margin-top:32px;">Masjid</h1>
+                </div>
+                <div class="">
+                    <img src="../../assets/image/aula.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-bottom:32px; margin-top:32px;">Aula</h1>
+                </div>
+
+                <div class="">
+                    <img src="../../assets/image/bengkel.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-bottom:32px; margin-top:32px;">Bengkel TKR</h1>
+                </div>
+                <div class="">
+                    <img src="../../assets/image/lab-tkj.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-bottom:32px; margin-top:32px;">Lab TKJ</h1>
+                </div>
+
+                <div class="">
+                    <img src="../../assets/image/lab-mulmet.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-bottom:32px; margin-top:32px;">Lab Multimedia</h1>
+                </div>
+                <div class="">
+                    <img src="../../assets/image/lapangan.png" alt="">
+                    <h1 class="font-open-sans text-black text-center font-semibold" style="font-size: 22px; margin-bottom:32px; margin-top:32px;">Lapangan</h1>
+                </div>
+            
         </div>
     </div>
     <livewire:footer.footer />
