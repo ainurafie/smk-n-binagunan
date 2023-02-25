@@ -16,6 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/tentang', function () {
+    return view('tentang');
+});
 // Menu Jurusan
 Route::get('/tkr', function () {
     return view('Jurusan.tkr');
