@@ -16,6 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/login', function () {
+    return view('login');
+});
 // Menu Jurusan
 Route::get('/tkr', function () {
     return view('Jurusan.tkr');
@@ -102,7 +105,7 @@ Route::get('/gukar/guru', function () {
 Route::get('/gukar/karyawan', function () {
     return view('GuKar.karyawan');
 });
-// GuKar
+// Prestasi
 Route::get('/prestasi', function () {
     return view('Prestasi.index');
 });
