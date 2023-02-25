@@ -102,3 +102,7 @@ Route::get('/gukar/guru', function () {
 Route::get('/gukar/karyawan', function () {
     return view('GuKar.karyawan');
 });
+// GuKar
+Route::get('/prestasi', function () {
+    return view('Prestasi.index');
+});

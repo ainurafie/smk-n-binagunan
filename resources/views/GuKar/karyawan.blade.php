@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>DataTables </title>
+    <title>Karyawan </title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -126,7 +126,7 @@
     <livewire:navbar.navbar />
     <div class="my-[20px] px-5 mt-60">
         <div class="lg:px-[290px]">
-            <h1 class="font-open-sans text  -[27px] font-semibold text-black text-justify lg:px-1 px-5 mb-[50px]">Karyawan
+            <h1 class="font-open-sans text-[27px] font-semibold text-black text-justify lg:px-1 px-5 mb-[50px]">Karyawan
             </h1>
         </div>
         <!--Container-->
