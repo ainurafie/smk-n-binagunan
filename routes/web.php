@@ -123,3 +123,7 @@ Route::get('/alumni/list-peserta-didik', function () {
 Route::get('/ppdb', function () {
     return view('PPDB.index');
 });
+// Galeri
+Route::get('/galeri', function () {
+    return view('galeri.index');
+});
