@@ -57,11 +57,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/badminton">
                     <img class="rounded-t-lg" src="../../assets/image/card8.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/badminton">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">Badminton</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -70,11 +70,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/voli">
                     <img class="rounded-t-lg" src="../../assets/image/card1.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/voli">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">Bola Voli</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -82,11 +82,11 @@
             </div>
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/basket">
                     <img class="rounded-t-lg" src="../../assets/image/card2.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/basket">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">Basket</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -98,11 +98,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/pmr">
                     <img class="rounded-t-lg" src="../../assets/image/card4.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/pmr">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">PMR Wirawisesa</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -112,11 +112,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/english">
                     <img class="rounded-t-lg" src="../../assets/image/card10.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/english">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">English Club</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -126,11 +126,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/sepakbola">
                     <img class="rounded-t-lg" src="../../assets/image/card3.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/sepakbola">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">Sepak Bola</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -143,11 +143,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/fotografi">
                     <img class="rounded-t-lg" src="../../assets/image/card9.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/fotografi">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">Fotografi</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -157,11 +157,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/jepang">
                     <img class="rounded-t-lg" src="../../assets/image/card11.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/jepang">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">Bahasa Jepang</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -171,11 +171,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/futsal">
                     <img class="rounded-t-lg" src="../../assets/image/card5.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/futsal">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">Futsal</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -188,11 +188,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/musik">
                     <img class="rounded-t-lg" src="../../assets/image/card12.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/musik">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">Musik</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -202,11 +202,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/rebana">
                     <img class="rounded-t-lg" src="../../assets/image/card6.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/rebana">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">Rebana</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>
@@ -216,11 +216,11 @@
 
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
-                <a href="#">
+                <a href="/siswa/kulikuler/it">
                     <img class="rounded-t-lg" src="../../assets/image/card11.png" alt="" />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="/siswa/kulikuler/it">
                         <h5 class="mb-4 mt-8 text-2xl font-bold tracking-tight text-gray-900">IT Club</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700">Lorem ipsum dolor sit amet consectetur. Id dolor interdum vestibulum in tortor lorem libero sapien. Amet turpis augue turpis ac turpis enim.</p>

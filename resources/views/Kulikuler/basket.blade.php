@@ -48,7 +48,7 @@
 </head>
 
 <body>
-    <livewire:navbar.navbar2 />
+    <livewire:navbar.navbar3 />
     <livewire:navbar.navbar />
     <div class="bg-no-repeat bg-center bg-cover lg:mt-40 mt-40 banner lg:w-full"
         style="background-image: url('../../assets/image/basket.png');">

@@ -302,8 +302,8 @@
                         rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
-                        <button
-                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
+                        <a href="/detail1"
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
                     </div>
                 </div>
                 <div class="col-span-4 lg:px-0 px-10 ">
@@ -316,8 +316,8 @@
                         rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
-                        <button
-                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
+                        <a href="/detail2"
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
                     </div>
                 </div>
                 <div class="col-span-4 lg:px-0 px-10 ">
@@ -330,8 +330,8 @@
                         rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
-                        <button
-                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
+                        <a href="/detail3"
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
                     </div>
                 </div>
             </div>
@@ -347,8 +347,8 @@
                         rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
-                        <button
-                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
+                        <a href="/detail4"
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
                     </div>
                 </div>
                 <div class="col-span-4 lg:px-0 px-10 ">
@@ -361,8 +361,8 @@
                         rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
-                        <button
-                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
+                        <a href="/detail5"
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
                     </div>
                 </div>
                 <div class="col-span-4 lg:px-0 px-10 ">
@@ -375,8 +375,8 @@
                         rhoncus sit
                         enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
-                        <button
-                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</button>
+                        <a href="/detail6"
+                            class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
                     </div>
                 </div>
             </div>

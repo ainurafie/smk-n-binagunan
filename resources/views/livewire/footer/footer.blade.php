@@ -2,7 +2,7 @@
     <footer class="">
         <div class="bg-[#0B3B86] p-4 sm:p-6  w-full">
             <div class=" flex lg:gap-20 lg:justify-center lg:px-40 flex-wrap lg:flex-nowrap">
-                <div class="flex flex-col">
+                <div class="flex w-full flex-col">
                     <div class="flex flex-col mb-5">
                         <h1 class="text-white font-inter font-bold text-[26px]">SMK Negeri 1 Binangun</h1>
                         <hr class="border-white border-2 w-[60px]">
@@ -14,7 +14,7 @@
                         Binangun,
                         Kabupaten Cilacap, Jawa Tengah</h1>
                 </div>
-                <div class="flex flex-col">
+                <div class="flex w-full flex-col">
                     <div class="flex flex-col mb-5">
                         <h1 class="text-white font-inter font-bold text-[26px] lg:mt-0 mt-5">Link Penting</h1>
                         <hr class="border-white border-2 w-[60px]">

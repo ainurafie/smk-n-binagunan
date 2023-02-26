@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/tentang', function () {
+Route::get('/profile', function () {
     return view('tentang');
 });
 // Menu Jurusan
@@ -52,46 +52,43 @@ Route::get('/detail6', function () {
     return view('Berita.berita-mos');
 });
 // Menu Kulikuler
-Route::get('/kulikuler', function () {
+Route::get('/siswa/kulikuler', function () {
     return view('Kulikuler.index');
 });
-Route::get('/kulikuler/badminton', function () {
+Route::get('/siswa/kulikuler/badminton', function () {
     return view('Kulikuler.badminton');
 });
-Route::get('/kulikuler/voli', function () {
+Route::get('/siswa/kulikuler/voli', function () {
     return view('Kulikuler.voli');
 });
-Route::get('/kulikuler/basket', function () {
+Route::get('/siswa/kulikuler/basket', function () {
     return view('Kulikuler.basket');
 });
-Route::get('/kulikuler/pmr', function () {
+Route::get('/siswa/kulikuler/pmr', function () {
     return view('Kulikuler.pmr');
 });
-Route::get('/kulikuler/pmr', function () {
-    return view('Kulikuler.pmr');
-});
-Route::get('/kulikuler/english', function () {
+Route::get('/siswa/kulikuler/english', function () {
     return view('Kulikuler.english');
 });
-Route::get('/kulikuler/sepakbola', function () {
+Route::get('/siswa/kulikuler/sepakbola', function () {
     return view('Kulikuler.sepakbola');
 });
-Route::get('/kulikuler/fotografi', function () {
+Route::get('/siswa/kulikuler/fotografi', function () {
     return view('Kulikuler.fotografi');
 });
-Route::get('/kulikuler/jepang', function () {
+Route::get('/siswa/kulikuler/jepang', function () {
     return view('Kulikuler.jepang');
 });
-Route::get('/kulikuler/musik', function () {
+Route::get('/siswa/kulikuler/musik', function () {
     return view('Kulikuler.musik');
 });
-Route::get('/kulikuler/futsal', function () {
+Route::get('/siswa/kulikuler/futsal', function () {
     return view('Kulikuler.futsal');
 });
-Route::get('/kulikuler/rebana', function () {
+Route::get('/siswa/kulikuler/rebana', function () {
     return view('Kulikuler.rebana');
 });
-Route::get('/kulikuler/it', function () {
+Route::get('/siswa/kulikuler/it', function () {
     return view('Kulikuler.it');
 });
 // Siswa
@@ -106,7 +103,7 @@ Route::get('/gukar/karyawan', function () {
     return view('GuKar.karyawan');
 });
 // Prestasi
-Route::get('/prestasi', function () {
+Route::get('/siswa/prestasi', function () {
     return view('Prestasi.index');
 });
 

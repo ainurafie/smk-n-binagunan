@@ -33,7 +33,7 @@
                 class="bg-gray-50 border border-gray-300 text-[#616161] text-2xl rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-5 placeholder-[#616161] mb-[53px]"
                 placeholder="Password" required>
             <div class="flex justify-center mb-8">
-                <button class="md:px-24 md:py-10 px-10 py-5 text-white font-bold bg-[#0D47A1] rounded-xl text-2xl md:text-5xl">Login</button>
+                <a href="/alumni/list-peserta-didik" class="md:px-24 md:py-10 px-10 py-5 text-white font-bold bg-[#0D47A1] rounded-xl text-2xl md:text-5xl">Login</a>
             </div>
             <h1 class="md:text-2xl text-xl text-[#787878] text-center font-open-sans mb-20 md:mb-40">Jiika lupa username dan juga password
                 bisa
