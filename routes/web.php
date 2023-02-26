@@ -119,3 +119,7 @@ Route::get('/alumni/form', function () {
 Route::get('/alumni/list-peserta-didik', function () {
     return view('Alumni.list');
 });
+// PPDB
+Route::get('/ppdb', function () {
+    return view('PPDB.index');
+});
