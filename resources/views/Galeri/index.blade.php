@@ -14,10 +14,7 @@
     <link rel="icon" href="../../assets/image/logo.png">
     @vite('resources/css/app.css')
     <style>
-        .container {
-            max-width: 1125px;
-            margin: 0 auto;
-        }
+
 
         .gallery {
             display: flex;
@@ -80,9 +77,9 @@
     <livewire:navbar.navbar />
     {{-- section 1 --}}
     <div class="mb-11 lg:mt-40 mt-40">
-        <div class="">
-            <div class="container">
-                <h1 class="font-semibold font-open-sans text-[27px] py-8 px-5 md:px-0">Galeri</h1>
+        <div class="flex justify-center">
+            <div class="">
+                <h1 class="font-semibold font-open-sans text-[27px] py-8 px-5 md:px-40">Galeri</h1>
                 <div class="gallery flex justify-center">
                     <a class="gallery-item" href="#"><img src="../../assets/image/1.png"
                             alt="Headshot of George Washington"><span class="text-wrapper"><span
