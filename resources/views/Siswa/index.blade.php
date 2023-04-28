@@ -35,7 +35,6 @@
             /*text-gray-700*/
             padding-left: 1rem;
             /*pl-4*/
-            padding-right: 1rem;
             /*pl-4*/
             padding-top: .5rem;
             /*pl-2*/
@@ -127,7 +126,7 @@
     <livewire:navbar.navbar />
     <div class="my-[20px] px-5 mt-60">
         <div class="lg:px-[290px]">
-            <h1 class="font-open-sans text-[27px] font-semibold text-black text-justify lg:px-1 px-5 mb-[50px]">Karyawan
+            <h1 class="font-open-sans text-[27px] font-semibold text-black text-justify lg:px-1 px-5 mb-[50px]">Siswa
             </h1>
         </div>
         <!--Container-->

@@ -35,7 +35,6 @@
             /*text-gray-700*/
             padding-left: 1rem;
             /*pl-4*/
-            padding-right: 1rem;
             /*pl-4*/
             padding-top: .5rem;
             /*pl-2*/

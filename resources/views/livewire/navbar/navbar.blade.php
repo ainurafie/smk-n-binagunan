@@ -15,7 +15,7 @@
             
             <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
                 <ul
-                    class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-[#0D47A1] ">
+                    class="flex flex-col gap-24 p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-[#0D47A1] ">
                     <li>
                         <a href="/"
                             class="block py-2 pl-3 pr-4 text-[#C4C4C4] rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-white md:p-0 font-inter">Beranda</a>
@@ -44,7 +44,7 @@
                                 </li>
                                 <li>
                                     <a href="/gukar/karyawan"
-                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Karyawan</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black">Karyawan</a>
                                 </li>
                         </div>
                     </li>
@@ -72,7 +72,7 @@
                                 </li>
                                 <li>
                                     <a href="/siswa/kulikuler"
-                                        class="block px-4 py-2 hover:bg-gray-100 text-black border-b">Ekstrakulikuler</a>
+                                        class="block px-4 py-2 hover:bg-gray-100 text-black">Ekstrakulikuler</a>
                                 </li>
                             </ul>
                         </div>

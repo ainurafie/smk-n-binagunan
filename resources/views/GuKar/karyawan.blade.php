@@ -35,7 +35,6 @@
             /*text-gray-700*/
             padding-left: 1rem;
             /*pl-4*/
-            padding-right: 1rem;
             /*pl-4*/
             padding-top: .5rem;
             /*pl-2*/
@@ -134,7 +133,6 @@
             <!--Card-->
             <div id='recipients' class="p-8 mt-6 lg:mt-0 rounded shadow bg-white">
 
-
                 <table id="example" class="stripe hover" style="width:100%; padding-top: 1em;  padding-bottom: 1em;">
                     <thead>
                         <tr class="bg-[#0B3B86] text-white">
@@ -152,7 +150,6 @@
                             <td>Amalia Suci Andrawina, S.Sos</td>
                             <td>5733762663300130</td>
                             <td>Null</td>
-
 
                         </tr>
 

@@ -103,29 +103,29 @@
                                 <label for="email" class="block mb-2 text-sm font-medium text-gray-600">Nama</label>
     
                                 <input type="text" name="email"
-                                    class="block w-full p-3 rounded bg-white border focus:outline-none">
+                                    class="block w-full p-3 rounded bg-white border focus:outline-none" required>
                             </div>
     
                             <div class="mb-5">
                                 <label for="password" class="block mb-2 text-sm font-medium text-gray-600">Nomor HP</label>
     
                                 <input type="text" name="password" type="password"
-                                    class="block w-full p-3 rounded bg-white border focus:outline-none">
+                                    class="block w-full p-3 rounded bg-white border focus:outline-none" required>
                             </div>
                             <div class="mb-5">
                                 <label for="email" class="block mb-2 text-sm font-medium text-gray-600">Asal Sekolah</label>
     
                                 <input type="text" name="email"
-                                    class="block w-full p-3 rounded bg-white border focus:outline-none">
+                                    class="block w-full p-3 rounded bg-white border focus:outline-none" required>
                             </div>
     
                             <div class="mb-5">
                                 <label for="password" class="block mb-2 text-sm font-medium text-gray-600">Pertanyaan</label>
     
                                 <textarea type="text" name="password"
-                                    class="block w-full p-3 rounded bg-white border focus:outline-none"></textarea>
+                                    class="block w-full p-3 rounded bg-white border focus:outline-none" required></textarea>
                             </div>
-                            <button class="w-full p-3 mt-4 bg-[#0D47A1] text-white rounded-xl shadow">Kirim</button>
+                            <button id="myButton" type="submit" class="w-full p-3 mt-4 bg-[#0D47A1] text-white rounded-xl shadow">Kirim</button>
                         </form>
                     </div>
                 </div>
@@ -135,7 +135,14 @@
     <livewire:footer.footer />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
     <script src="https://code.iconify.design/iconify-icon/1.0.5/iconify-icon.min.js"></script>
+<script>
+    const myButton = document.getElementById("myButton");
 
+myButton.addEventListener("click", function() {
+  alert("Apakah anda yakin untul mengirim pertanyaan?");
+  window.location.href = "/ppdb";
+});
+</script>
 </body>
 
 </html>
