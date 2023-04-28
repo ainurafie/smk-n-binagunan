@@ -347,7 +347,7 @@
                 class="lg:grid lg:grid-cols-12 lg:px-[120px] lg:gap-10 lg:pb-[111px] flex flex-wrap lg:flex-nowrap px-5">
                 <div class="col-span-4 lg:px-0 px-10 ">
                     <div class="lg:justify-start justify-center flex">
-                        <img src="../../assets/image/bg-tkj3.svg" class="lg:w-full h-[350px] w-[318px]"
+                        <img src="../../assets/image/bg-tkj3.png" class="lg:w-full h-[350px] w-[318px]"
                             alt="">
                     </div>
                     <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
@@ -361,7 +361,7 @@
                 </div>
                 <div class="col-span-4 lg:px-0 px-10 ">
                     <div class="lg:justify-start justify-center flex">
-                        <img src="../../assets/image/bg-tkj2.svg" class="lg:w-full h-[350px] w-[318px]"
+                        <img src="../../assets/image/bg-tkj2.png" class="lg:w-full h-[350px] w-[318px]"
                             alt="">
                     </div>
                     <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
@@ -375,7 +375,7 @@
                 </div>
                 <div class="col-span-4 lg:px-0 px-10 ">
                     <div class="lg:justify-start justify-center flex">
-                        <img src="../../assets/image/bg-tkj.svg" class="lg:w-full h-[350px] w-[318px]"
+                        <img src="../../assets/image/bg-tkj.png" class="lg:w-full h-[350px] w-[318px]"
                             alt="">
                     </div>
                     <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
