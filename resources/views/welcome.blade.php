@@ -84,7 +84,7 @@
                                     Teknik Kendaraan Ringan</h1>
                                 <h1 class="text-[14px] text-white font-inter text-center">TKR merupakam jurusan yang
                                     mempelajari
-                                    ilmu dan materi pembelajaran yang berkaitan dengan dunia permesinan kendaraan...</h1>
+                                    ilmu dan materi pembelajaran yang berkaitan dengan dunia permesinan kendaraan</h1>
                             </div>
                         </div>
                     </div>
@@ -134,8 +134,8 @@
                                         </linearGradient>
                                     </defs>
                                 </svg>
-    
-    
+
+
                             </div>
                             <div class="px-5">
                                 <h1
@@ -144,7 +144,7 @@
                                     Jaringan</h1>
                                 <h1 class="text-[14px] text-[#7B7B7B] font-inter text-center">Teknik Komputer Jaringan. TKJ
                                     merupakan sebuah kejuruan yang mempelajari tentang cara merakit komputer, mengenal
-                                    dan...
+                                    dan
                                 </h1>
                             </div>
                         </div>
@@ -195,14 +195,14 @@
                                         </linearGradient>
                                     </defs>
                                 </svg>
-    
+
                             </div>
                             <div class="px-5">
                                 <h1
                                     class="text-[18px] text-[#353535] font-inter text-center font-bold lg:mt-[38px] mt-[28px] lg:mb-[28px] mb-[ ]">
                                     Multimedia</h1>
                                 <h1 class="text-[14px] text-[#7B7B7B] font-inter text-center">Jurusan Multimedia fokus pada
-                                    pemanfaatan teknologi untuk memproduksi dan mendistribusikan konten multimedia...</h1>
+                                    pemanfaatan teknologi untuk memproduksi dan mendistribusikan konten multimedia</h1>
                             </div>
                         </div>
                     </div>
@@ -252,15 +252,15 @@
                                         </linearGradient>
                                     </defs>
                                 </svg>
-    
+
                             </div>
                             <div class="px-5">
                                 <h1
                                     class="text-[18px] text-[#353535] font-inter text-center font-bold lg:mt-[38px] mt-[28px] lg:mb-[28px] mb-[ ]">
                                     Teknik Pemesinan</h1>
-                                <h1 class="text-[14px] text-[#7B7B7B] font-inter text-center">TKR merupakam jurusan yang
+                                <h1 class="text-[14px] text-[#7B7B7B] font-inter text-center">Teknik Pemesinan merupakam jurusan yang
                                     mempelajari
-                                    ilmu dan materi pembelajaran yang berkaitan dengan dunia permesinan kendaraan...</h1>
+                                    ilmu dan materi pembelajaran yang berkaitan dengan dunia permesinan kendaraan</h1>
                             </div>
                         </div>
                     </div>
@@ -269,7 +269,7 @@
         </div>
         {{-- section 3 --}}
         <div class="bg-white">
-            <h1 class="font-semibold text-[32px] font-inter text-[#414141] text-center pt-10 pb-[92px]">Kegiatan Siswa
+            <h1 class="font-semibold text-[32px] font-inter text-[#0B3B86] text-center pt-10 pb-[92px]">Kegiatan Siswa
             </h1>
             <div class="">
                 <div
@@ -305,10 +305,9 @@
                         <img src="../../assets/image/berita1.png" class="lg:w-full h-[350px] w-[318px]"
                             alt="">
                     </div>
-                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
-                        rhoncus sit
-                        enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
+                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Penerimaan Peserta Didik Baru 2022</h1>
+                    <h1 class="text-[22px] text-[#535353] text-justify">Informasi PPDB SMKN 1 BINANGUN tahun 2022 Penerimaan Peserta Didik Baru (PPDB) SMK Negeri 1 Binangun Tahun 2022 dilaksanakan secara online dimana aplikasi disediakan oleh Dinas Pendidikan Provinsi Jawa Tengah dengan
+                        system ini di harapkan pelaksanaan PPDB akan berjalan NONDISKRIMINATIF, OBJEKTIF, TRANSPARAN..</h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
                         <a href="/detail1"
                             class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
@@ -319,10 +318,9 @@
                         <img src="../../assets/image/berita2.png" class="lg:w-full h-[350px] w-[318px]"
                             alt="">
                     </div>
-                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
-                        rhoncus sit
-                        enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
+                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Ketentuan Daftar Ulang PPDB 2021</h1>
+                    <h1 class="text-[22px] text-[#535353] text-justify">Selamat! bagi yang masuk dalam daftar diterima sebagai Calon Peserta Didik Baru (CPD) SMK NEGERI 1 BINANGUN tahun pelajaran 2021/2022. Kami ucapkan terimakasi yang sebesar-besarnya bagi Calon
+                        peserta didik yang belum masuk dalam daftar diterima di SMK NEGERI 1 BINANGUN. Tetap semangat tidak ada kata terlambat masih banyak pilihan..</h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
                         <a href="/detail2"
                             class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
@@ -333,10 +331,9 @@
                         <img src="../../assets/image/berita3.png" class="lg:w-full h-[350px] w-[318px]"
                             alt="">
                     </div>
-                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
-                        rhoncus sit
-                        enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
+                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Penerimaan Peserta Didik Baru 2021</h1>
+                    <h1 class="text-[22px] text-[#535353] text-justify">Informasi PPDB SMKN 1 BINANGUN tahun 2021 Penerimaan Peserta Didik Baru (PPDB) SMK Negeri 1 Binangun Tahun 2021 dilaksanakan secara online dimana aplikasi disediakan oleh Dinas Pendidikan Provinsi Jawa Tengah dengan
+                        system ini di harapkan pelaksanaan PPDB akan berjalan NONDISKRIMINATIF, OBJEKTIF, TRANSPARAN..</h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
                         <a href="/detail3"
                             class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
@@ -350,10 +347,9 @@
                         <img src="../../assets/image/bg-tkj3.png" class="lg:w-full h-[350px] w-[318px]"
                             alt="">
                     </div>
-                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
-                        rhoncus sit
-                        enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
+                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">SMK English Challenge 2020</h1>
+                    <h1 class="text-[22px] text-[#535353] text-justify">Program Fasilitasi Ujian Sertifikasi Internasional Kemampuan Bahasa Inggris dengan TOEIC dari Direktorat SMK   Pemerintah melalui Direktorat Sekolah Menengah Kejuruan (DSMK) membuka peluang bagi SMK di seluruh Indonesia
+                        untuk memperoleh bantuan sertifikasi internasional melalui program SMK English Challenge 2020..</h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
                         <a href="/detail4"
                             class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
@@ -364,10 +360,9 @@
                         <img src="../../assets/image/bg-tkj2.png" class="lg:w-full h-[350px] w-[318px]"
                             alt="">
                     </div>
-                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
-                        rhoncus sit
-                        enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
+                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Penerimaan Peserta Didik Baru 2020</h1>
+                    <h1 class="text-[22px] text-[#535353] text-justify">Informasi PPDB SMKN 1 BINANGUN tahun 2020 Penerimaan Peserta Didik Baru (PPDB) SMK Negeri 1 Binangun Tahun 2020 dilaksanakan secara online dimana aplikasi disediakan oleh Dinas Pendidikan Provinsi Jawa Tengah dengan
+                        system ini di harapkan pelaksanaan PPDB akan berjalan NONDISKRIMINATIF, OBJEKTIF, TRANSPARAN..</h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
                         <a href="/detail5"
                             class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
@@ -378,10 +373,9 @@
                         <img src="../../assets/image/bg-tkj.png" class="lg:w-full h-[350px] w-[318px]"
                             alt="">
                     </div>
-                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Teknik Komputer & Jaringan</h1>
-                    <h1 class="text-[22px] text-[#535353] text-justify">Lorem ipsum dolor sit amet consectetur. Gravida
-                        rhoncus sit
-                        enim id enim elementum amet. Lorem amet id malesuada cursus eget cras ipsum. </h1>
+                    <h1 class="text-[24px] text-[#353535] mt-6 mb-2 font-bold">Pelantikan OSIS, Pramuka dan PMR</h1>
+                    <h1 class="text-[22px] text-[#535353] text-justify">Ibu Sri Utami, S.Pd. MM selaku Pembina upacara melantik dan memberikan sambutan untuk pengurus baru. Dilanjutkan dengan penyerahan simbolis bendera OSIS, Pramuka dan PMR dari ketua periode 2018/2019 kepada ketua
+                        baru periode 2019/2020. Disaksikan langsung oleh siswa kelas X dan XII yang berada di lapangan upacara..</h1>
                     <div class="flex justify-center lg:mb-0 mb-10">
                         <a href="/detail6"
                             class="rounded-[10px] bg-[#1858BB] py-[9px] px-[54px] mt-[49px] text-white">Selengkapnya</a>
@@ -394,7 +388,7 @@
     <livewire:footer.footer />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
     <script src="https://code.iconify.design/iconify-icon/1.0.5/iconify-icon.min.js"></script>
-    
+
 </body>
 
 </html>
