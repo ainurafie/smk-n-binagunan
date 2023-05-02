@@ -35,7 +35,7 @@
             <div class="flex justify-center mb-8">
                 <a href="/alumni/list-peserta-didik" class="md:px-24 md:py-2 px-10 py-2 text-white font-bold bg-[#0D47A1] rounded-xl text-2xl md:text-2xl">Login</a>
             </div>
-            <h1 class="md:text-xl text-lg text-[#787878] text-center font-open-sans mb-20 md:mb-40">Jiika lupa username dan juga password
+            <h1 class="md:text-xl text-lg text-[#787878] text-center font-open-sans mb-20 md:mb-40">Jika lupa username dan juga password
                 bisa
                 menghubungi bagian administrasi sekolah</h1>
         </div>

@@ -95,7 +95,7 @@
         const myButton = document.getElementById("myButton");
 
         myButton.addEventListener("click", function() {
-            alert("Apakah anda yakin untul mengirim form?");
+            alert("Apakah anda yakin untuk mengirim form?");
             window.location.href = "/alumni/form";
         });
     </script>

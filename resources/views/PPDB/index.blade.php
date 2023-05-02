@@ -101,27 +101,27 @@
                         <form method="POST" class="" action="#" onsubmit="return false;">
                             <div class="mb-5">
                                 <label for="email" class="block mb-2 text-sm font-medium text-gray-600">Nama</label>
-    
+
                                 <input type="text" name="email"
                                     class="block w-full p-3 rounded bg-white border focus:outline-none" required>
                             </div>
-    
+
                             <div class="mb-5">
                                 <label for="password" class="block mb-2 text-sm font-medium text-gray-600">Nomor HP</label>
-    
+
                                 <input type="text" name="password" type="password"
                                     class="block w-full p-3 rounded bg-white border focus:outline-none" required>
                             </div>
                             <div class="mb-5">
                                 <label for="email" class="block mb-2 text-sm font-medium text-gray-600">Asal Sekolah</label>
-    
+
                                 <input type="text" name="email"
                                     class="block w-full p-3 rounded bg-white border focus:outline-none" required>
                             </div>
-    
+
                             <div class="mb-5">
                                 <label for="password" class="block mb-2 text-sm font-medium text-gray-600">Pertanyaan</label>
-    
+
                                 <textarea type="text" name="password"
                                     class="block w-full p-3 rounded bg-white border focus:outline-none" required></textarea>
                             </div>
@@ -139,7 +139,7 @@
     const myButton = document.getElementById("myButton");
 
 myButton.addEventListener("click", function() {
-  alert("Apakah anda yakin untul mengirim pertanyaan?");
+  alert("Apakah anda yakin untuk mengirim pertanyaan?");
   window.location.href = "/ppdb";
 });
 </script>
