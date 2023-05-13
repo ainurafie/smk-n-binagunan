@@ -36,7 +36,7 @@
     <livewire:navbar.navbar2 />
     <livewire:navbar.navbar />
     <div class="bg-no-repeat bg-center bg-cover lg:mt-40 mt-40 banner lg:w-full"
-        style="background-image: url('../../assets/image/profile1.png');">
+        style="background-image: url('../../assets/image/profile3.png');">
         <div class="items-center flex flex-col justify-center banner">
             <h1 class="text-white lg:text-[32px] text-[22px] font-open-sans font-bold">Profile Jurusan</h1>
             <h1 class="text-white lg:text-5xl text-[32px] font-open-sans font-bold text-center">Multimedia</h1>
@@ -96,7 +96,7 @@
                             </linearGradient>
                             </defs>
                             </svg>
-                            
+
                     </div>
                     <div class="px-5">
                         <h1
@@ -136,7 +136,7 @@
                             </linearGradient>
                             </defs>
                             </svg>
-                            
+
                     </div>
                     <div class="px-5">
                         <h1

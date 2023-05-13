@@ -158,7 +158,7 @@
             <div
                 class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
                 <a href="/siswa/kulikuler/jepang">
-                    <img class="rounded-t-lg" src="../../assets/image/card11.png" alt="" />
+                    <img class="rounded-t-lg" src="../../assets/image/ekskul japan.png" alt="" />
                 </a>
                 <div class="p-5">
                     <a href="/siswa/kulikuler/jepang">

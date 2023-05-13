@@ -62,8 +62,8 @@
         <h1 class="font-open-sans text-black text-justify">Selain sebagai Ekstrakurikuler hadroh juga mengandung nilai ibadah. Karena dalam kegiatan nya para siswa melantunkan sholawat dengan semangat dan khusyu. SMK Negeri 1 Binangun juga memiliki grup hadroh yang terdiri dari siswa siswi. Grup rebana SMK Negeri 1 Binangun sering mengisi acara keagamaan di sekolah seprti acara isro Mi’roj dan acara keagamaan lainnya.</h1>
         <br><br>
         <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER REBANA</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">Hari : jumat</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Hari : Jum'at</h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Pukul : 15.00 - 17.00</h1>
     </div>
     <livewire:footer.footer />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>

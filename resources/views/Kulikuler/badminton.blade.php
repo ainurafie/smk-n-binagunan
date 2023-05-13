@@ -62,10 +62,10 @@
         <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER BADMINTON.</h1>
         <h1 class="font-open-sans text-base text-black font-bold text-justify">Badminton Laki-laki</h1>
         <h1 class="font-open-sans text-base text-black text-justify">Hari : Rabu</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Pukul : 15.00 - 17.00</h1>
         <h1 class="font-open-sans text-base text-black font-bold text-justify">Badminton Perempuan</h1>
         <h1 class="font-open-sans text-base text-black text-justify">Hari : Kamis</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Pukul : 15.00 - 17.00</h1>
     </div>
     <livewire:footer.footer />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>

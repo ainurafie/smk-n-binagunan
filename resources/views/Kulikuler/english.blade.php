@@ -69,7 +69,7 @@
         <br><br>
         <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER ENGLISH CLUB</h1>
         <h1 class="font-open-sans text-base text-black text-justify">Hari : Sabtu</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 08.00 - 10.00</h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Pukul : 08.00 - 10.00</h1>
     </div>
     <livewire:footer.footer />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>

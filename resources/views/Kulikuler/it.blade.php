@@ -59,9 +59,9 @@
     <div class="lg:px-[123px] my-[20px] px-5 lg:mt-[57px]">
         <h1 class="font-open-sans text-black text-justify">Perkembangan Informasi dan Teknologi saat ini berkembang dengan sangat cepat, oleh karena itu perlu adanya pembekalan bagi para siswa ataupun siswi di SMK Negeri 1 Binangun. Melalui ekstrakulikuler  IT Club ini di harapkan siswa siswi dapat bersaing dalam hal IT, selain itu pula dapat meningkatkan kreatifitas setiap siswa ataupun siswi yang mengikutinya. Serta dapat bersaing dalam IT dan berkreatifitas diharapkan juga dapat bersaing melalui lomba ataupun OSN di setiap wilayah.</h1>
         <br><br>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER IT CLUB/h1>
-        <h1 class="font-open-sans text-base text-black text-justify">Hari : selasa</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
+        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER IT CLUB </h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Hari : Selasa</h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Pukul : 15.00 - 17.00</h1>
     </div>
     <livewire:footer.footer />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>

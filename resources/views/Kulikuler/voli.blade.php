@@ -62,9 +62,9 @@
         <h1 class="font-open-sans text-black text-justify">SMK Negeri 1 Binangun memiliki 2 tim bola voli yaitu tim bola voli putra dan tim bola voli putri. Tim bola voli SMK Negeri 1 Binangun sering mengikuti perlombaan atau turnamen bola voli baik di tingkat kabupaten, kecamatan maupun antar sekolah SMK. Berbagai penghargaan  telah banyak diraih oleh tim bola voli putra maupun putri.
         </h1>
         <br><br>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify"> EKSTRAKULIKULER BOLA VOLI</h1>
+        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER BOLA VOLI</h1>
         <h1 class="font-open-sans text-base text-black text-justify">Hari : Kamis</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 15.00 - 17.00</h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Pukul : 15.00 - 17.00</h1>
     </div>
     <livewire:footer.footer />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>

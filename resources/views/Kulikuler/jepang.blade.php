@@ -51,7 +51,7 @@
     <livewire:navbar.navbar3 />
     <livewire:navbar.navbar />
     <div class="bg-no-repeat bg-center bg-cover lg:mt-40 mt-40 banner lg:w-full"
-        style="background-image: url('../../assets/image/jepang.png');">
+        style="background-image: url('../../assets/image/ekskul jepang.png');">
         <div class="items-center flex flex-col justify-center banner">
             <h1 class="text-white lg:text-[32px] text-[22px] text-center font-open-sans font-bold">Bahasa Jepang</h1>
         </div>
@@ -61,9 +61,9 @@
         <br>
         <h1 class="font-open-sans text-black text-justify">Anggota ekstrakurikuler Bahasa Jepang terdiri dari peserta didik kelas X, XI dan XII dari semua jurusan yang berminat untuk mempelajari bahasa Jepang. Harapannya semoga dengan adanya ekstrakurikuler Bahasa Jepang SMK Negeri 1 Binangun dapat menambah wawasan siswa mengenai hal-hal kejepangan dan keterampilan berkomunikasi dalam bahasa Jepang.</h1>
         <br><br>
-        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER FOTOGRAFI</h1>
+        <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER BAHASA JEPANG</h1>
         <h1 class="font-open-sans text-base text-black text-justify">Hari : Sabtu</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 08.00 - 10.00</h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Pukul : 08.00 - 10.00</h1>
     </div>
     <livewire:footer.footer />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>

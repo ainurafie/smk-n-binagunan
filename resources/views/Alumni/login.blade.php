@@ -20,11 +20,11 @@
     <livewire:navbar.navbar />
 
     <div class="lg:mt-40 mt-40 md:px-0 px-5">
-        <h1 class="text-[32px] font-semibold font-open-sans text-center mb-[50px] pt-[50px]">Alumni</h1>
-        <h1 class="md:text-2xl text-xl font-open-sans text-center md:px-[109px] mb-[108px]">Untuk alumni yang ingin
+        <h1 class="text-[32px] font-semibold font-open-sans text-center mb-[30px] pt-[50px]">Alumni</h1>
+        <h1 class="md:text-2xl text-xl font-open-sans text-center md:px-[109px] mb-[50px]">Untuk alumni yang ingin
             mengakses data
             silahkan login menggunakan username dan password yang sudah dibagikan pada waktu kelulusan</h1>
-        <h1 class="text-[32px] font-bold font-open-sans text-center mb-20">LOGIN</h1>
+        <h1 class="text-[32px] font-bold font-open-sans text-center mb-10">LOGIN</h1>
         <div class="md:px-60">
             <input type="email" id="email"
                 class="bg-gray-50 border border-gray-300 text-[#616161] text-xl rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-5 placeholder-[#616161] mb-[53px]"

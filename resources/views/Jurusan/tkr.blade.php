@@ -128,10 +128,9 @@
                     <div class="px-5">
                         <h1
                             class="text-[18px] text-white font-inter text-center font-bold lg:mt-[38px] mt-[28px] lg:mb-[28px] mb-[ ]">
-                            Teknik Kendaraan Ringan</h1>
-                        <h1 class="text-[14px] text-white font-inter text-center">TKR merupakam jurusan yang
-                            mempelajari
-                            ilmu dan materi pembelajaran yang berkaitan dengan dunia permesinan kendaraan...</h1>
+                            Juara I LKS Automobile Technology</h1>
+                        <h1 class="text-[14px] text-white font-inter text-center">Siswa TKR SMKN 1 Binangun meraih juara 1 dalam perlombaan
+                            LKS Automobile Technologi tingkat Kabupaten Cilacap pada tahun 2022</h1>
                     </div>
                 </div>
             </div>

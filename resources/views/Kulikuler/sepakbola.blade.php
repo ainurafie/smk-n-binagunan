@@ -58,11 +58,11 @@
     </div>
     <div class="lg:px-[123px] my-[20px] px-5 lg:mt-[57px]">
         <h1 class="font-open-sans text-black text-justify">Salah satu kegiatan ekstrakurikuler di SMK Negeri 1 Binangun adalah Ekstrakulikuler Sepak Bola. Ekstrakurikuler ini merupakan wadah bagi para siswa untuk mengembangkan bakat dan minatnya dalam bidang olah raga sepak bola. Kegiatan ini dilakukan secara rutin satu kali dalam satu minggu. Kegiatan ekskul ini diampu oleh guru olah raga. Prestasi dari kegiatan ekstrakulikuler sepak bola SMK Negeri 1 Binangun reltif banyak.</h1>
-        
+
         <br><br>
         <h1 class="font-open-sans text-base text-black font-bold text-justify">JADWAL EKSTRAKULIKULER SEPAK BOLA</h1>
         <h1 class="font-open-sans text-base text-black text-justify">Hari : Sabtu</h1>
-        <h1 class="font-open-sans text-base text-black text-justify">pukul : 08.00 - 10.00</h1>
+        <h1 class="font-open-sans text-base text-black text-justify">Pukul : 08.00 - 10.00</h1>
     </div>
     <livewire:footer.footer />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
