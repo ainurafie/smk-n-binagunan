@@ -31,63 +31,66 @@
                 tersedia di SMK
                 Negeri 1 Binangun</h1>
             <div class="flex justify-center flex-wrap lg:flex-nowrap gap-11 px-14 mt-12">
+                </a>
                 <a href="/tkr">
-                    <div class="flex flex-col ">
-                        <div class="bg-no-repeat bg-center bg-cover  w-full h-[329px] rounded-[10px] flex flex-col justify-center"
-                            style="background-image: url('../../assets/image/card.png');">
+                    <div class="flex flex-col">
+                        <div
+                            class="bg-no-repeat bg-center bg-cover  w-full h-[329px] rounded-[10px] flex flex-col justify-center bg-white drop-shadow">
                             <div class="flex justify-center">
                                 <svg width="136" height="136" viewBox="0 0 136 136" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
-                                    <g filter="url(#filter0_d_330_162)">
-                                        <circle cx="68" cy="68" r="58"
-                                            fill="url(#paint0_linear_330_162)" shape-rendering="crispEdges" />
+                                    <g filter="url(#filter0_d_334_143)">
+                                        <circle cx="68" cy="65" r="58"
+                                            fill="url(#paint0_linear_334_143)" shape-rendering="crispEdges" />
                                     </g>
-                                    <mask id="mask0_330_162" style="mask-type:alpha" maskUnits="userSpaceOnUse"
-                                        x="36" y="39" width="65" height="70">
-                                        <rect x="36" y="39" width="65" height="70" fill="#D9D9D9" />
+                                    <mask id="mask0_334_143" style="mask-type:alpha" maskUnits="userSpaceOnUse"
+                                        x="43" y="40" width="50" height="50">
+                                        <rect x="43" y="40" width="50" height="50"
+                                            fill="#D9D9D9" />
                                     </mask>
                                     <g mask="url(#mask0_330_162)">
                                         <path
                                             d="M87.1862 91.5838L72.3581 76.7846L78.0456 71.1082L92.8737 85.9074L87.1862 91.5838ZM49.8112 91.5838L44.1237 85.9074L62.8112 67.2564L58.207 62.6612L56.3112 64.5533L52.8581 61.1069V66.6482L50.9622 68.5403L42.7695 60.3636L44.6654 58.4715H50.2174L46.832 55.0926L56.4466 45.4968C57.3494 44.5958 58.3199 43.9425 59.3581 43.5371C60.3963 43.1316 61.457 42.9289 62.5404 42.9289C63.6237 42.9289 64.6845 43.1316 65.7227 43.5371C66.7609 43.9425 67.7313 44.5958 68.6341 45.4968L62.4049 51.7138L65.7904 55.0926L63.8945 56.9848L68.4987 61.58L74.5924 55.4981C74.4119 55.0025 74.2656 54.4844 74.1537 53.9438C74.04 53.4032 73.9831 52.8626 73.9831 52.322C73.9831 49.664 74.8976 47.4223 76.7266 45.5968C78.5538 43.7732 80.799 42.8613 83.4622 42.8613C84.1393 42.8613 84.783 42.9289 85.3933 43.0641C86.0018 43.1992 86.622 43.4019 87.2539 43.6722L80.5508 50.3623L85.4258 55.2278L92.1289 48.5377C92.4449 49.1684 92.6597 49.7874 92.7735 50.3947C92.8854 51.0038 92.9414 51.6462 92.9414 52.322C92.9414 54.98 92.0278 57.2208 90.2006 59.0445C88.3715 60.87 86.1254 61.7827 83.4622 61.7827C82.9206 61.7827 82.3789 61.7376 81.8372 61.6475C81.2956 61.5574 80.7765 61.3998 80.28 61.1745L49.8112 91.5838Z"
-                                            fill="white" />
+                                            fill="#565656" />
                                     </g>
                                     <defs>
-                                        <filter id="filter0_d_330_162" x="0" y="0" width="136"
-                                            height="136" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                        <filter id="filter0_d_334_143" x="0" y="0" width="136"
+                                            height="136" filterUnits="userSpaceOnUse"
+                                            color-interpolation-filters="sRGB">
                                             <feFlood flood-opacity="0" result="BackgroundImageFix" />
                                             <feColorMatrix in="SourceAlpha" type="matrix"
                                                 values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
-                                            <feOffset />
+                                            <feOffset dy="3" />
                                             <feGaussianBlur stdDeviation="5" />
                                             <feComposite in2="hardAlpha" operator="out" />
                                             <feColorMatrix type="matrix"
-                                                values="0 0 0 0 0.266667 0 0 0 0 0.266667 0 0 0 0 0.266667 0 0 0 0.25 0" />
+                                                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
                                             <feBlend mode="normal" in2="BackgroundImageFix"
-                                                result="effect1_dropShadow_330_162" />
-                                            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_330_162"
+                                                result="effect1_dropShadow_334_143" />
+                                            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_334_143"
                                                 result="shape" />
                                         </filter>
-                                        <linearGradient id="paint0_linear_330_162" x1="10" y1="-17"
-                                            x2="222.5" y2="291" gradientUnits="userSpaceOnUse">
-                                            <stop offset="0.0382834" stop-color="white" />
-                                            <stop offset="0.110515" stop-color="#DFE6F2" stop-opacity="0.813547" />
-                                            <stop offset="0.181735" stop-color="#A0B4D8" stop-opacity="0.446243" />
-                                            <stop offset="0.280415" stop-color="#87A0CD" stop-opacity="0.297835" />
-                                            <stop offset="0.554554" stop-color="#5478B8" stop-opacity="0" />
+                                        <linearGradient id="paint0_linear_334_143" x1="68" y1="7"
+                                            x2="68" y2="123" gradientUnits="userSpaceOnUse">
+                                            <stop stop-color="white" />
+                                            <stop offset="1" stop-color="white" stop-opacity="0" />
                                         </linearGradient>
                                     </defs>
                                 </svg>
+
+
                             </div>
                             <div class="px-5">
                                 <h1
-                                    class="text-[18px] text-white font-inter text-center font-bold lg:mt-[38px] mt-[28px] lg:mb-[28px] mb-[ ]">
+                                    class="text-[18px] text-[#353535] font-inter text-center font-bold lg:mt-[38px] mt-[28px] lg:mb-[28px] mb-[ ]">
                                     Teknik Kendaraan Ringan</h1>
-                                <h1 class="text-[14px] text-white font-inter text-center">TKR merupakam jurusan yang
-                                    mempelajari
-                                    ilmu dan materi pembelajaran yang berkaitan dengan dunia permesinan kendaraan</h1>
+                                <h1 class="text-[14px] text-[#7B7B7B] font-inter text-center">TKR merupakam  jurusan yang mempelajari ilmu dan materi
+                                    pembelajaran yang berkaitan dengan dunia permesinan kendaraan
+                                </h1>
                             </div>
                         </div>
                     </div>
+
                 </a>
                 <a href="/tkj">
                     <div class="flex flex-col">
@@ -143,8 +146,7 @@
                                     Teknik Komputer &
                                     Jaringan</h1>
                                 <h1 class="text-[14px] text-[#7B7B7B] font-inter text-center">Teknik Komputer Jaringan. TKJ
-                                    merupakan sebuah kejuruan yang mempelajari tentang cara merakit komputer, mengenal
-                                    dan
+                                    merupakan sebuah kejuruan yang mempelajari tentang cara merakit komputer
                                 </h1>
                             </div>
                         </div>
@@ -258,9 +260,7 @@
                                 <h1
                                     class="text-[18px] text-[#353535] font-inter text-center font-bold lg:mt-[38px] mt-[28px] lg:mb-[28px] mb-[ ]">
                                     Teknik Pemesinan</h1>
-                                <h1 class="text-[14px] text-[#7B7B7B] font-inter text-center">Teknik Pemesinan merupakam jurusan yang
-                                    mempelajari
-                                    ilmu dan materi pembelajaran yang berkaitan dengan dunia permesinan kendaraan</h1>
+                                <h1 class="text-[14px] text-[#7B7B7B] font-inter text-center">Teknik Pemesinan merupakan jurusan yang mempelajari tentang energi dan sumber energinya</h1>
                             </div>
                         </div>
                     </div>
