@@ -31,7 +31,7 @@
                 placeholder="Email Anda" required>
             <div class="relative">
                 <input type="password" id="password" name="password"
-                    class="bg-gray-50 border border-gray-300 text-[#616161] text-xl rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-5 placeholder-[#616161] mb-[53px]"
+                    class="bg-gray-50 border border-gray-300 text-[#616161] text-xl rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-5 placeholder-[#616161] mb-[53px]"  placeholder="Password"
                     required>
                 <div class="flex absolute top-5 right-3 items-center pr-3 text-gray-600 cursor-pointer">
                     <iconify-icon id="togglernew" icon="bxs:show" width="30" height="30"></iconify-icon>
