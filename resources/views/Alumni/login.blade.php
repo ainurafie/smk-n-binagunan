@@ -29,13 +29,21 @@
             <input type="email" id="email"
                 class="bg-gray-50 border border-gray-300 text-[#616161] text-xl rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-5 placeholder-[#616161] mb-[53px]"
                 placeholder="Email Anda" required>
-            <input type="password" id="password"
-                class="bg-gray-50 border border-gray-300 text-[#616161] text-xl rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-5 placeholder-[#616161] mb-[53px]"
-                placeholder="Password" required>
-            <div class="flex justify-center mb-8">
-                <a href="/alumni/list-peserta-didik" class="md:px-24 md:py-2 px-10 py-2 text-white font-bold bg-[#0D47A1] rounded-xl text-2xl md:text-2xl">Login</a>
+            <div class="relative">
+                <input type="password" id="password" name="password"
+                    class="bg-gray-50 border border-gray-300 text-[#616161] text-xl rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-5 placeholder-[#616161] mb-[53px]"
+                    required>
+                <div class="flex absolute top-5 right-3 items-center pr-3 text-gray-600 cursor-pointer">
+                    <iconify-icon id="togglernew" icon="bxs:show" width="30" height="30"></iconify-icon>
+                </div>
             </div>
-            <h1 class="md:text-xl text-lg text-[#787878] text-center font-open-sans mb-20 md:mb-40">Jika lupa username dan juga password
+
+            <div class="flex justify-center mb-8">
+                <a href="/alumni/list-peserta-didik"
+                    class="md:px-24 md:py-2 px-10 py-2 text-white font-bold bg-[#0D47A1] rounded-xl text-2xl md:text-2xl">Login</a>
+            </div>
+            <h1 class="md:text-xl text-lg text-[#787878] text-center font-open-sans mb-20 md:mb-40">Jika lupa username
+                dan juga password
                 bisa
                 menghubungi bagian administrasi sekolah</h1>
         </div>
@@ -49,9 +57,27 @@
 <script>
     const myButton = document.getElementById("myButton");
 
-myButton.addEventListener("click", function() {
-  alert("Anda telah mengeklik tombol!");
-  window.location.href = "https://www.example.com";
-});
+    myButton.addEventListener("click", function() {
+        alert("Anda telah mengeklik tombol!");
+        window.location.href = "https://www.example.com";
+    });
 </script>
+<script>
+    var newpassword = document.getElementById('password');
+    var togglernew = document.getElementById('togglernew');
+    showHidePasswordNew = () => {
+        if (newpassword.type == 'password') {
+            newpassword.setAttribute('type', 'text');
+            togglernew.removeAttribute('icon')
+            togglernew.setAttribute('icon', 'bxs:hide')
+        } else {
+            togglernew.removeAttribute('icon')
+            togglernew.setAttribute('icon', 'bxs:show')
+            newpassword.setAttribute('type', 'password');
+        }
+    };
+
+    togglernew.addEventListener('click', showHidePasswordNew);
+</script>
+
 </html>

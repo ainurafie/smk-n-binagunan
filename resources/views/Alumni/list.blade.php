@@ -133,8 +133,24 @@
     <livewire:navbar.navbar2 />
     <livewire:navbar.navbar />
     <div class="my-[20px] px-5 mt-60">
+
         <div class="lg:px-[290px]">
-            <h1 class="font-open-sans text-[27px] font-semibold text-black text-justify lg:px-1 px-5 mb-[50px]">Daftar Peserta Didik
+            <div class="flex justify-end">
+                <button id="dropdownDefaultButton" data-dropdown-toggle="dropdown" class="flex items-center gap-2">
+                    <img class="w-10 h-10 rounded-full" src="../assets/image/marsha.png" alt="Rounded avatar">
+                    <h1 class="text-[18px] text-[#353535] font-inter text-center font-bold  ">
+                        Hallo, Rully Arlinda
+                    </h1>
+                </button>
+                <div id="dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44">
+                    <ul class="py-2 text-sm text-gray-700 " aria-labelledby="dropdownDefaultButton">
+                      <li>
+                        <a href="/" class="block px-4 py-2 hover:bg-gray-100">Log out</a>
+                      </li>
+                    </ul>
+                </div>
+            </div>
+            <h1 class="font-open-sans text-[27px] font-semibold text-black text-justify lg:px-1 px-5 mb-5">Data Alumni
             </h1>
         </div>
         <!--Container-->
@@ -159,13 +175,17 @@
                     <tbody>
                         <tr>
                             <td class="text-center">1</td>
-                            <td>062192</td>
-                            <td>NUR LAELATUL</td>
+                            <td>062212</td>
+                            <td>RULLY ARLINDA</td>
                             <td>
-                                2016
+                                <h1 class="text-center">
+                                    2016
+                                </h1>
                             </td>
                             <td>
-                                TKJ
+                                <h1 class="text-center">
+                                    TKJ
+                                </h1>
                             </td>
                             <td>
                                 <a href="/alumni/form" class="button">Edit</a>
@@ -175,392 +195,7 @@
                         </tr>
 
                         <!-- Rest of your data (refer to https://datatables.net/examples/server_side/ for server side processing)-->
-                        <tr>
-                            <td class="text-center">2</td>
-                            <td>062193</td>
-                            <td>NURATIH</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
 
-                        </tr>
-                        <tr>
-                            <td class="text-center">3</td>
-                            <td>062194</td>
-                            <td>NURVIANTI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-
-                        </tr>
-                        <tr>
-                            <td class="text-center">4</td>
-                            <td>062195</td>
-                            <td>OKTA DEWI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-
-                        </tr>
-                        <tr>
-                            <td class="text-center">5</td>
-                            <td>062196</td>
-                            <td>PEBRIANINGSIH</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">6</td>
-                            <td>062197</td>
-                            <td>PUPUT SAFITRI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                       
-                        <tr>
-                            <td class="text-center">7</td>
-                            <td>062198</td>
-                            <td>PUTRI DWI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">8</td>
-                            <td>062199</td>
-                            <td>RADIYEM</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">9</td>
-                            <td>062200</td>
-                            <td>RAHAYU</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">10</td>
-                            <td>062201</td>
-                            <td>RAMIATI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">11</td>
-                            <td>062202</td>
-                            <td>RATNA AYUNI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">12</td>
-                            <td>062203</td>
-                            <td>RATNA BUDIARTI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">13</td>
-                            <td>062204</td>
-                            <td>RENITA AMELIA</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">14</td>
-                            <td>062205</td>
-                            <td>RESTI ANASUNDARI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">15</td>
-                            <td>062206</td>
-                            <td>RESTI PRIHATINI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">16</td>
-                            <td>062207</td>
-                            <td>RITA INDIYANI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">17</td>
-                            <td>062208</td>
-                            <td>RITA SUSANTI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-
-                        </tr>
-                        <tr>
-                            <td class="text-center">18</td>
-                            <td>062209</td>
-                            <td>ROHMIATI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-
-                        </tr>
-                        <tr>
-                            <td class="text-center">19</td>
-                            <td>062210</td>
-                            <td>ROICHATUL JANNAH</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-
-                        </tr>
-                        <tr>
-                            <td class="text-center">20</td>
-                            <td>062211</td>
-                            <td>ROMAHTUL UMIYAH</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">21</td>
-                            <td>062212</td>
-                            <td>RULLY ARLINDA</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                       
-                        <tr>
-                            <td class="text-center">22</td>
-                            <td>062213</td>
-                            <td>SALSA OKTAVIA</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">23</td>
-                            <td>062214</td>
-                            <td>SEFIA PURWANTI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">24</td>
-                            <td>062215</td>
-                            <td>SEPTI DIANA SARI</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">25</td>
-                            <td>062216</td>
-                            <td>SERLLY EKA</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">26</td>
-                            <td>062217</td>
-                            <td>SERLY SEPTIANA</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">27</td>
-                            <td>062218</td>
-                            <td>AHELY ASHELA</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="text-center">28</td>
-                            <td>062219</td>
-                            <td>SINTA</td>
-                            <td>
-                                2016
-                            </td>
-                            <td>
-                                TKJ
-                            </td>
-                            <td>
-                                <a href="/alumni/form" class="button">Edit</a>
-                            </td>
-                        </tr>
                     </tbody>
 
                 </table>
@@ -573,7 +208,9 @@
         </div>
     </div>
     <!--/container-->
-    <livewire:footer.footer />
+    <div class="md:mt-40">
+        <livewire:footer.footer />
+    </div>
 
 
 
@@ -584,16 +221,21 @@
     <!--Datatables -->
     <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
     <script>
         $(document).ready(function() {
-
             var table = $('#example').DataTable({
-                    responsive: true
-                })
-                .columns.adjust()
-                .responsive.recalc();
+                responsive: true,
+                searching: false, // Remove search bar
+                paging: false, // Remove pagination
+                info: false // Remove "Showing 1 to 1 of 1 entries" message
+            }).columns.adjust().responsive.recalc();
         });
     </script>
+
 
 </body>
 
